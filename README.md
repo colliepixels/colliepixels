@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @colliepixels
-- 👀 I’m interested in NFTs, ERC721, Solidity, smart contracts, cannabis
+- 👀 I’m interested in NFTs, ERC721, Solidity, smart contracts, cannabis, Tezos, Matic, BSC
 - 🌱 I’m currently learning Solidity, ERC721, Truffle, .JS3
-- 💞️ I’m looking to collaborate on ART
+- 💞️ I’m looking to collaborate on ART & exciting blockchain projects
 - 📫 How to reach me @southern_expat
 
 <!---
