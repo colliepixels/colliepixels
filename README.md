@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colliepixels
 - 👀 Fiat is dead & Art is digital
-- 🌱 NFTs, ERC721, Solidity, smart contracts, cannabis, Tezos, Matic, BSC
+- 🌱 ERC721s, Solidity, smart contracts, React JS
 - 💞️ First computer was an Apple IIe
 - 📫 Tweet at me--> @southern_expat
 
