@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colliepixels
 - 👀 Fiat is dead & Art is digital
-- 🌱 ERC721s, Solidity, smart contracts, React JS
+- 🌱 ERC721s, Solidity, Web3, React JS
 - 💞️ First computer was an Apple IIe
 - 📫 Tweet at me--> @southern_expat
 
